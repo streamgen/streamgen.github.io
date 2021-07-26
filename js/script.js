@@ -1,5 +1,5 @@
 
-/* update js 5:03 pm 26-07-2021 */
+/* update js 5:03 pm 26-07-2021 ! */
 let btnVerify = document.querySelector("#btn__verify");
 let coupon = document.querySelector("#coupon");
 let alert = document.querySelector('.alert');
