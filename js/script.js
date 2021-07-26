@@ -141,8 +141,8 @@ const verifyKey = (key) => {
                     if(curMonth == monthExp){
                         expireDate = dayExp - curDay + ' days';
                     } else {
-                        
-                        expireDate = (dayExp + daysInMonth(curDay,curYear)) - curDay + ' days';
+
+                        expireDate = (dayExp + daysInMonth(curMonth,curYear)) - curDay + ' days';
                     }
                 }
 
