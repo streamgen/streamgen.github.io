@@ -1,5 +1,6 @@
 
- let btnVerify = document.querySelector("#btn__verify");
+/* update js 5:03 pm 26-07-2021 */
+let btnVerify = document.querySelector("#btn__verify");
 let coupon = document.querySelector("#coupon");
 let alert = document.querySelector('.alert');
 let success = document.querySelector('.success');
